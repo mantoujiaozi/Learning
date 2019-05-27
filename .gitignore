@@ -1,0 +1,14 @@
+.idea/
+*.iml
+
+*.pyc
+
+logs/
+build
+null
+tmp*
+temp*
+test-output
+build.log
+*.tar.gz
+*fabfile*
