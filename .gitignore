@@ -12,3 +12,4 @@ test-output
 build.log
 *.tar.gz
 *fabfile*
+.ipynb_checkpoints
