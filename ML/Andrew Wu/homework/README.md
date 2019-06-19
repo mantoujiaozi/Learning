@@ -1,1 +1,1 @@
-1. 
+1. ex4中nnCostFunction为用for循环实现cost函数，CostFunction(vectorization)用矩阵化实现cost函数
